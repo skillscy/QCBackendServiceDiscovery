@@ -1,1 +1,1 @@
-web: java -Dserver.port=8761 $JAVA_OPTS -jar build/libs/servicediscovery-0.1.jar
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar build/libs/servicediscovery-0.1.jar
