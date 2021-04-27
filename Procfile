@@ -1,1 +1,1 @@
-web: java -Dserver.port=8761 $JAVA_OPTS -jar build/libs/skillscy-1.0.jar
+web: java -Dserver.port=8761 $JAVA_OPTS -jar build/libs/servicediscovery-0.1.jar
