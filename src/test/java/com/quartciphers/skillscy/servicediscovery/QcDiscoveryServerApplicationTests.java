@@ -1,4 +1,4 @@
-package com.quertciphers.skillscy.servicediscovery;
+package com.quartciphers.skillscy.servicediscovery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

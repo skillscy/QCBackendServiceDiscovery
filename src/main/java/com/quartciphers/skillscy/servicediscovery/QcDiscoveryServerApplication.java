@@ -1,4 +1,4 @@
-package com.quertciphers.skillscy.servicediscovery;
+package com.quartciphers.skillscy.servicediscovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
