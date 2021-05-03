@@ -1,0 +1,6 @@
+server:
+  port: ${PORT}
+
+company:
+  product:
+    id: ${PRODUCT_ID}

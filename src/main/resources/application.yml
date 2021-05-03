@@ -1,0 +1,13 @@
+company:
+  name: Quart Ciphers
+
+spring:
+  application:
+    name: SERVICE-DISCOVERY
+  profiles:
+    active: ${PROFILE}
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
