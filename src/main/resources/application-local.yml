@@ -1,0 +1,6 @@
+server:
+  port: 8761
+
+company:
+  product:
+    id: ${PRODUCT_ID}
