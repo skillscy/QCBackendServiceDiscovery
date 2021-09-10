@@ -5,7 +5,7 @@ spring:
   application:
     name: SERVICE-DISCOVERY
   profiles:
-    active: ${PROFILE}
+    active: ${PROFILE:local}
 
 eureka:
   client:
